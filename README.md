@@ -6,9 +6,9 @@ This project focuses on analyzing e-commerce customer behaviour and developing p
 
 -----
 Methodology
-	- 1.	Data collection and loading
-	- 2.	Data preprocessing and cleaning
-	- 3.	Exploratory Data Analysis (EDA)
-	- 4.	Feature engineering
-	- 5.	Model building and evaluation
-	- 6.	Interpretation of results
+- Data collection and loading
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Model building and evaluation
+- Interpretation of results
